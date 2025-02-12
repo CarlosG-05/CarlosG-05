@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Carlos D. Guerrero 👋
 
-<!--
-**CarlosG-05/CarlosG-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering student at UC San Diego (class of 2027) with a passion for technology, innovation, and problem-solving. I love working on a variety of projects ranging from hardware to software, and I'm always eager to learn and grow. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, C++, Java, MATLAB, Verilog
+- **Hardware**: Arduino, Raspberry Pi, FPGA, PCB Design
+- **Tools**: Git, VS Code, Eclipse, Docker, Jupyter, SolidWorks
+- **Other**: Machine Learning, Data Science, Circuit Design, IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Check out some of my personal and academic projects:
+
+- **[IoT Smart Home System](https://github.com/yourusername/smart-home)**: A home automation system built using Raspberry Pi and Arduino.
+- **[AI-Powered Traffic Prediction](https://github.com/yourusername/traffic-prediction)**: A machine learning model to predict traffic patterns using data analysis.
+- **[FPGA Digital Clock](https://github.com/yourusername/fpga-digital-clock)**: A digital clock built with Verilog on an FPGA board.
+
+## 🎓 Current Focus
+I'm currently diving deeper into **Machine Learning**, **Embedded Systems**, and **Signal Processing**. I'm also exploring the intersection of hardware and software in **IoT** applications.
+
+## 📚 Education
+- **B.S. in Electrical Engineering**, UC San Diego (Class of 2027)
+
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/carlos-guerrero/)
+- [Personal Website](https://carlos-guerrero.com)
+- [Email](mailto:carlos.d.guerrero@ucsd.edu)
+
+## 🎮 Fun Facts
+- I enjoy playing around with **Raspberry Pi** projects during my free time.
+- Always up for a good **sci-fi movie** or playing **strategy games**.
+- Passionate about **space exploration** and **sustainable tech**.
+
+---
+
+Thanks for checking out my profile! Feel free to reach out if you want to collaborate or chat about tech. 🚀
