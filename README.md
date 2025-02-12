@@ -24,7 +24,7 @@ I'm currently diving deeper into **Embedded Systems**, and **Circuits and System
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carlosg25/)
 - [Personal Website](https://carlosg5.tech)
-- [Email](mailto:c5guerrero@ucsd.edu)
+- cguerrero.cg05@gmail.com
 
 ## 🎮 Fun Facts
 - I enjoy playing around with **Raspberry Pi** projects during my free time.
