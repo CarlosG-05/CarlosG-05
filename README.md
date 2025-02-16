@@ -23,7 +23,7 @@ I'm currently diving deeper into **Embedded Systems**, and **Circuits and System
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/carlosg25/)
-- [Personal Website](https://carlosg5.tech)
+- [Personal Website](https://carlosengineer.netlify.app/)
 - cguerrero.cg05@gmail.com
 
 ## 🎮 Fun Facts
