@@ -4,7 +4,7 @@ I'm an Electrical Engineering student at UC San Diego (class of 2027) with a pas
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C++, Java, MATLAB, Verilog
-- **Hardware**: Arduino, Raspberry Pi, FPGA, PCB Design
+- **Hardware**: Arduino, ESP-32, Raspberry Pi, FPGA, PCB Design
 - **Tools**: Git, VS Code, Docker, SolidWorks
 - **Other**: Machine Learning, Data Science, Circuit Design, IoT
 
