@@ -11,9 +11,7 @@ I'm an Electrical Engineering student at UC San Diego (class of 2027) with a pas
 ## 🚀 Projects
 Check out some of my personal and academic projects:
 
-- **[IoT Smart Home System](https://github.com/yourusername/smart-home)**: A home automation system built using Raspberry Pi and Arduino.
-- **[AI-Powered Traffic Prediction](https://github.com/yourusername/traffic-prediction)**: A machine learning model to predict traffic patterns using data analysis.
-- **[FPGA Digital Clock](https://github.com/yourusername/fpga-digital-clock)**: A digital clock built with Verilog on an FPGA board.
+- **Coming Soon!
 
 ## 🎓 Current Focus
 I'm currently diving deeper into **Embedded Systems**, and **Circuits and Systems**. I'm also exploring the intersection of hardware and software in **IoT** applications.
